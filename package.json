@@ -1,0 +1,20 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "template crud for websites",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "node.js",
+    "crud"
+  ],
+  "author": "Nasouh Mrstani",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.6"
+  }
+}
